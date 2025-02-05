@@ -1,4 +1,4 @@
-package inputstreamreader;
+package inputstreamreader.bytetocharacterstream;
 
 import static inputstreamreader.bytetocharacterstream.ByteToCharacterStream.readFile;
 
